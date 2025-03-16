@@ -10,25 +10,5 @@ Username: admin
 
 Password: admin
 
-Teknologi yang digunakan:
 
-PHP
-
-MySQL
-
-HTML, CSS, JavaScript
-
-Google Cloud Storage
-
-Visualisasi Data dengan Python dan Excel
-
-Fungsionalitas:
-
-Pengelolaan data donatur dan program donasi.
-
-Dashboard visualisasi data kontribusi per program.
-
-Integrasi metode pembayaran Bank Transfer dan QRIS.
-
-Sistem otentikasi untuk admin.
 
